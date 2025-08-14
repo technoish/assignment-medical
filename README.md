@@ -2,6 +2,7 @@
 
 A Django web application that provides role-based authentication for **Patients** and **Doctors** with separate dashboards and comprehensive user management features.
 
+
 ## Features
 
 - **Multi-User Registration**: Separate registration for Patients and Doctors
